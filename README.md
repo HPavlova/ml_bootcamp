@@ -13,3 +13,6 @@
 4. [Handling Complex Images](./practice/C1W4_Assignment.ipynb)
 
 ### II Convolutional Neural Networks in TensorFlow
+
+#### Programming Tasks:
+1. [Cats vs Dogs](./practice/C2W1_Assignment.ipynb)
