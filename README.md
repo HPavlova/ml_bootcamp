@@ -16,3 +16,4 @@
 
 #### Programming Tasks:
 1. [Cats vs Dogs](./practice/C2W1_Assignment.ipynb)
+2. [Cats vs Dogs with Data Augmentation](./practice/C2W2_Assignment.ipynb)
