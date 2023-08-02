@@ -21,4 +21,11 @@
 2. [Cats vs Dogs with Data Augmentation](./practice/C2W2_Assignment.ipynb)
 3. [Transfer Learning - Horses vs Humans](./practice/C2W3_Assignment.ipynb)
 4. [Classification: Beyond two classes](./practice/C2W4_Assignment.ipynb)
+
+### III Natural Language Processing in TensorFlow
+
+![Course Certificate Natural Language Processing in TensorFlow](./images)
+
+#### Programming Tasks:
+1. [Explore the BBC news archive](./practice/C3W1_Assignment.ipynb)
    
