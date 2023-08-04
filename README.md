@@ -28,4 +28,5 @@
 
 #### Programming Tasks:
 1. [Explore the BBC news archive](./practice/C3W1_Assignment.ipynb)
+2. [Diving deeper into the BBC News archive](./practice/C3W2_Assignment.ipynb)
    
