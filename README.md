@@ -24,10 +24,11 @@
 
 ### III Natural Language Processing in TensorFlow
 
-![Course Certificate Natural Language Processing in TensorFlow](./images)
+![Course Certificate Natural Language Processing in TensorFlow](./images/Coursera%202M5MWARVCCC8.pdf)
 
 #### Programming Tasks:
 1. [Explore the BBC news archive](./practice/C3W1_Assignment.ipynb)
 2. [Diving deeper into the BBC News archive](./practice/C3W2_Assignment.ipynb)
 3. [Exploring overfitting in NLP](./practice/C3W3_Assignment.ipynb)
+4. [Predicting the next word](./practice/C3W4_Assignment.ipynb)
    
