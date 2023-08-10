@@ -31,4 +31,11 @@
 2. [Diving deeper into the BBC News archive](./practice/C3W2_Assignment.ipynb)
 3. [Exploring overfitting in NLP](./practice/C3W3_Assignment.ipynb)
 4. [Predicting the next word](./practice/C3W4_Assignment.ipynb)
+
+### IV Sequences, Time Series and Prediction
+
+![Course Certificate Sequences, Time Series and Prediction](./images)
+
+#### Programming Tasks:
+1. [Working with generated time series](./practice/C4W1_Assignment.ipynb)
    
