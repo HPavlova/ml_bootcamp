@@ -38,5 +38,5 @@
 
 #### Programming Tasks:
 1. [Working with generated time series](./practice/C4W1_Assignment.ipynb)
-2. [Forecasting Using Neural Networks](./practice/)
+2. [Forecasting Using Neural Networks](./practice/C4W2_Assignment.ipynb)
    
